@@ -59,7 +59,7 @@ Como os dados utilizados não possuem rótulos previamente definidos, o K-means 
 
 Acesse a aplicação publicada no Streamlit:
 
-[🔗 Abrir aplicação](https://knnmarketing-kfvbschunskq6yohwyyzwk.streamlit.app/)
+[🔗 Link da aplicação](https://knnmarketing-kfvbschunskq6yohwyyzwk.streamlit.app/)
 
 ## Resultados esperados
 
